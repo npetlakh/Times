@@ -1,0 +1,4 @@
+header {display: flex; font-family: Verdana; font-size: 14px; font-weight: bold;
+}
+nav {display: inline-block;}
+header h3 {font-color: MediumAquamarine;}
